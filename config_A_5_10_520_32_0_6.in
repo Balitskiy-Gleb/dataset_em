@@ -1,5 +1,5 @@
 Sections m=log_2 (n) 
-9 
+10 
 Length of CRC 
 8 
 CRC mask 
@@ -7,7 +7,7 @@ CRC mask
 List size 
 32 
 Number of frozen bits 
-248 
+504 
 #punctured bits 
 0 
 position of punctured bits (incrementing order) 
@@ -15,4 +15,4 @@ position of punctured bits (incrementing order)
 The seed for random generator 
 7 
 The path and file name of the frozen bits 
-./CRA_polar/polar_design/frozen_bits_S_75_9_264_32.txt 
+C:\Users\bWX913002\Desktop\Polar_RA_CRC-master\Polar_scripts_design\CRA_polar_0.875\polar_design\frozen_bits_A_5_10_520_32_0_6.in 
